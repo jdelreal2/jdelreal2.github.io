@@ -1,1 +1,28 @@
-
+p{
+  color:SeaGreen;
+  font-weight:bold;
+}
+ul{
+  color:aquamarine;
+  font-family:Georgia;
+}
+ol {
+  color:darkslateblue;
+  font-family:Courier;
+}
+h1{
+  color:indigo;
+  font-family:Impact, fantasy;
+}
+header{
+  color:mediumorchid;
+  font-family:american typewriter;
+}
+body{
+  color:fucshia;
+  font-family:didot;
+}
+footer{
+  color:darkturquoise;
+  font-family:ariel;
+}
